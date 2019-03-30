@@ -1,0 +1,3 @@
+pip install nose2
+
+python -m nose2
